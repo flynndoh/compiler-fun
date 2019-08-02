@@ -1,0 +1,8 @@
+gggg := 3;
+n := 0;
+
+if gggg > 0 or gggg < 20 then
+    n := 1 
+else 
+    n := 2 
+end
